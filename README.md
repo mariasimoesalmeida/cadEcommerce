@@ -4,7 +4,6 @@
 ## 📋 Descrição
 O projeto desenvolvido para a disciplina de Programação Web II consiste em uma aplicação de carrinho de compras para um e-commerce. O sistema oferece aos usuários a funcionalidade de adicionar produtos ao carrinho, visualizar o conteúdo e gerenciar suas compras de forma eficiente. A aplicação simula as operações básicas de um e-commerce, proporcionando uma interface simples e intuitiva que permite aos usuários adicionar produtos e consultar o total das suas compras.
 
-![cadastro](images/cadastrodeproduto.png)
 
 ## Métodos PHP Utilizados
 
