@@ -71,3 +71,7 @@ O projeto desenvolvido para a disciplina de Programação Web II consiste em uma
 - **`echo`** é utilizado para imprimir texto e variáveis na saída padrão, gerando HTML dinâmico e mensagens para o usuário.
 
 Esses métodos e funções são essenciais para criar, manipular e interagir com dados em uma aplicação PHP que utiliza um banco de dados MySQL.
+
+## Autores 
+
+![imagem](imagens/duda.jpeg)
