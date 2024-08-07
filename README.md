@@ -75,3 +75,7 @@ Esses métodos e funções são essenciais para criar, manipular e interagir com
 ## Autores 
 
 ![imagem](imagens/duda.jpeg)
+
+
+<img src="images/duda.jpeg" alt="Tela da Aplicação" width="600"/>
+
