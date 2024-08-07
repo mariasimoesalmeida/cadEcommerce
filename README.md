@@ -76,6 +76,3 @@ Esses métodos e funções são essenciais para criar, manipular e interagir com
 
 ![imagem](imagens/duda.jpeg)
 
-
-<img src="images/duda.jpeg" alt="imagens" width="80"/>
-
